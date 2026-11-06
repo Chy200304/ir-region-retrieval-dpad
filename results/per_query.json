@@ -1,0 +1,3552 @@
+[
+  {
+    "method": "full",
+    "category": 0,
+    "query": "person",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.02127659574468085,
+    "AP@10": 0.17718253968253966,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "full",
+    "category": 1,
+    "query": "bicycle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.023809523809523808,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "full",
+    "category": 2,
+    "query": "car",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.06060606060606061,
+    "AP@10": 0.11666666666666665,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 3,
+    "query": "motorcycle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.5961904761904762,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 4,
+    "query": "airplane",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.2222222222222222,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 5,
+    "query": "bus",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.42857142857142855,
+    "AP@10": 0.29166666666666663,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 6,
+    "query": "train",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.40740740740740744,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 7,
+    "query": "truck",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.18181818181818182,
+    "AP@10": 0.065,
+    "MRR": 0.25
+  },
+  {
+    "method": "full",
+    "category": 8,
+    "query": "boat",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.7345238095238095,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 9,
+    "query": "traffic light",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 11,
+    "query": "stop sign",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.30952380952380953,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "full",
+    "category": 13,
+    "query": "bench",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2222222222222222,
+    "AP@10": 0.08333333333333333,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 14,
+    "query": "bird",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.0625,
+    "AP@10": 0.01,
+    "MRR": 0.1
+  },
+  {
+    "method": "full",
+    "category": 15,
+    "query": "cat",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.3214285714285714,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 16,
+    "query": "dog",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.2518518518518518,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 17,
+    "query": "horse",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.22619047619047616,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "full",
+    "category": 20,
+    "query": "elephant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5882352941176471,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 21,
+    "query": "bear",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 22,
+    "query": "zebra",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 23,
+    "query": "giraffe",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.8888888888888888,
+    "AP@10": 0.8666666666666667,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 24,
+    "query": "backpack",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0625
+  },
+  {
+    "method": "full",
+    "category": 25,
+    "query": "umbrella",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05555555555555555,
+    "AP@10": 0.03333333333333333,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "full",
+    "category": 26,
+    "query": "handbag",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.015151515151515152
+  },
+  {
+    "method": "full",
+    "category": 27,
+    "query": "tie",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.27777777777777773,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 28,
+    "query": "suitcase",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.3404761904761905,
+    "MRR": 0.2
+  },
+  {
+    "method": "full",
+    "category": 29,
+    "query": "frisbee",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.75,
+    "AP@10": 0.34375,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 30,
+    "query": "skis",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.08333333333333333
+  },
+  {
+    "method": "full",
+    "category": 31,
+    "query": "snowboard",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.8571428571428571,
+    "AP@10": 0.8214285714285714,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 32,
+    "query": "sports ball",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.03571428571428571,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "full",
+    "category": 33,
+    "query": "kite",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5555555555555556,
+    "AP@10": 0.3126984126984127,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "full",
+    "category": 34,
+    "query": "baseball bat",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.047619047619047616,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "full",
+    "category": 35,
+    "query": "baseball glove",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.025,
+    "MRR": 0.1
+  },
+  {
+    "method": "full",
+    "category": 36,
+    "query": "skateboard",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.2,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 38,
+    "query": "tennis racket",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.17037037037037037,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 39,
+    "query": "bottle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.014285714285714285,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "full",
+    "category": 40,
+    "query": "wine glass",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.0625,
+    "AP@10": 0.05,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 41,
+    "query": "cup",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05714285714285714,
+    "AP@10": 0.04722222222222222,
+    "MRR": 0.25
+  },
+  {
+    "method": "full",
+    "category": 42,
+    "query": "fork",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.07142857142857142
+  },
+  {
+    "method": "full",
+    "category": 43,
+    "query": "knife",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.034482758620689655
+  },
+  {
+    "method": "full",
+    "category": 44,
+    "query": "spoon",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.047619047619047616,
+    "AP@10": 0.01111111111111111,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "full",
+    "category": 45,
+    "query": "bowl",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.041666666666666664,
+    "AP@10": 0.025,
+    "MRR": 0.25
+  },
+  {
+    "method": "full",
+    "category": 46,
+    "query": "banana",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.009523809523809525
+  },
+  {
+    "method": "full",
+    "category": 48,
+    "query": "sandwich",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.08333333333333333,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "full",
+    "category": 49,
+    "query": "orange",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0022935779816513763
+  },
+  {
+    "method": "full",
+    "category": 50,
+    "query": "broccoli",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.18181818181818182,
+    "AP@10": 0.08333333333333333,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 51,
+    "query": "carrot",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.07692307692307693
+  },
+  {
+    "method": "full",
+    "category": 52,
+    "query": "hot dog",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 53,
+    "query": "pizza",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.14444444444444443,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 54,
+    "query": "donut",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.7142857142857143,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 55,
+    "query": "cake",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.125,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 56,
+    "query": "chair",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006711409395973154
+  },
+  {
+    "method": "full",
+    "category": 57,
+    "query": "couch",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 58,
+    "query": "potted plant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.1,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 59,
+    "query": "bed",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.5555555555555555,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 60,
+    "query": "dining table",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.041666666666666664
+  },
+  {
+    "method": "full",
+    "category": 61,
+    "query": "toilet",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 62,
+    "query": "tv",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 63,
+    "query": "laptop",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.07692307692307693
+  },
+  {
+    "method": "full",
+    "category": 64,
+    "query": "mouse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.041666666666666664
+  },
+  {
+    "method": "full",
+    "category": 65,
+    "query": "remote",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.10833333333333334,
+    "MRR": 0.25
+  },
+  {
+    "method": "full",
+    "category": 67,
+    "query": "cell phone",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2857142857142857,
+    "AP@10": 0.19047619047619047,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 68,
+    "query": "microwave",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.047619047619047616,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "full",
+    "category": 69,
+    "query": "oven",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.025,
+    "MRR": 0.125
+  },
+  {
+    "method": "full",
+    "category": 71,
+    "query": "sink",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.4,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 72,
+    "query": "refrigerator",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.2,
+    "MRR": 1.0
+  },
+  {
+    "method": "full",
+    "category": 73,
+    "query": "book",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.058823529411764705
+  },
+  {
+    "method": "full",
+    "category": 74,
+    "query": "clock",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4444444444444444,
+    "AP@10": 0.19126984126984128,
+    "MRR": 0.25
+  },
+  {
+    "method": "full",
+    "category": 75,
+    "query": "vase",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.25,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 76,
+    "query": "scissors",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.010309278350515464
+  },
+  {
+    "method": "full",
+    "category": 77,
+    "query": "teddy bear",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2857142857142857,
+    "AP@10": 0.3196428571428572,
+    "MRR": 0.5
+  },
+  {
+    "method": "full",
+    "category": 79,
+    "query": "toothbrush",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.8111111111111111,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 0,
+    "query": "person",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.02127659574468085,
+    "AP@10": 0.3393650793650793,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 1,
+    "query": "bicycle",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 2,
+    "query": "car",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.21212121212121213,
+    "AP@10": 0.6,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 3,
+    "query": "motorcycle",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.7595238095238095,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 4,
+    "query": "airplane",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.5694444444444444,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 5,
+    "query": "bus",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5714285714285714,
+    "AP@10": 0.3952380952380952,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 6,
+    "query": "train",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 7,
+    "query": "truck",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.18181818181818182,
+    "AP@10": 0.065,
+    "MRR": 0.25
+  },
+  {
+    "method": "crop",
+    "category": 8,
+    "query": "boat",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.3833333333333333,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 9,
+    "query": "traffic light",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.047619047619047616
+  },
+  {
+    "method": "crop",
+    "category": 11,
+    "query": "stop sign",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 13,
+    "query": "bench",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4444444444444444,
+    "AP@10": 0.3253968253968254,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 14,
+    "query": "bird",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.8,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 15,
+    "query": "cat",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.75,
+    "AP@10": 0.4151785714285714,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 16,
+    "query": "dog",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.2,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 17,
+    "query": "horse",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.1,
+    "MRR": 0.2
+  },
+  {
+    "method": "crop",
+    "category": 20,
+    "query": "elephant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.47058823529411764,
+    "AP@10": 0.7268253968253968,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 21,
+    "query": "bear",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 22,
+    "query": "zebra",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 23,
+    "query": "giraffe",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.9626543209876544,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 24,
+    "query": "backpack",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.27777777777777773,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 25,
+    "query": "umbrella",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2777777777777778,
+    "AP@10": 0.3555555555555555,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 26,
+    "query": "handbag",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.17647058823529413,
+    "AP@10": 0.21000000000000002,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 27,
+    "query": "tie",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.10833333333333334,
+    "MRR": 0.25
+  },
+  {
+    "method": "crop",
+    "category": 28,
+    "query": "suitcase",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 29,
+    "query": "frisbee",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 30,
+    "query": "skis",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.08333333333333333
+  },
+  {
+    "method": "crop",
+    "category": 31,
+    "query": "snowboard",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.8571428571428571,
+    "AP@10": 0.8571428571428571,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 32,
+    "query": "sports ball",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 33,
+    "query": "kite",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.05555555555555555
+  },
+  {
+    "method": "crop",
+    "category": 34,
+    "query": "baseball bat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.03571428571428571
+  },
+  {
+    "method": "crop",
+    "category": 35,
+    "query": "baseball glove",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 36,
+    "query": "skateboard",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.02857142857142857,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "crop",
+    "category": 38,
+    "query": "tennis racket",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.19444444444444442,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 39,
+    "query": "bottle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.21428571428571427,
+    "AP@10": 0.10333333333333335,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "crop",
+    "category": 40,
+    "query": "wine glass",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3125,
+    "AP@10": 0.45,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 41,
+    "query": "cup",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.5107142857142857,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 42,
+    "query": "fork",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 43,
+    "query": "knife",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.025,
+    "MRR": 0.25
+  },
+  {
+    "method": "crop",
+    "category": 44,
+    "query": "spoon",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.047619047619047616,
+    "AP@10": 0.016666666666666666,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "crop",
+    "category": 45,
+    "query": "bowl",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.20833333333333334,
+    "AP@10": 0.27222222222222225,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 46,
+    "query": "banana",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 48,
+    "query": "sandwich",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.25,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 49,
+    "query": "orange",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.125,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 50,
+    "query": "broccoli",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.36363636363636365,
+    "AP@10": 0.18333333333333332,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "crop",
+    "category": 51,
+    "query": "carrot",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.21739130434782608,
+    "AP@10": 0.39166666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 52,
+    "query": "hot dog",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.5833333333333333,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 53,
+    "query": "pizza",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.7388888888888889,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 54,
+    "query": "donut",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.7142857142857143,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 55,
+    "query": "cake",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.75,
+    "AP@10": 0.41666666666666663,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 56,
+    "query": "chair",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05714285714285714,
+    "AP@10": 0.2,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 57,
+    "query": "couch",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.13888888888888887,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 58,
+    "query": "potted plant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.35714285714285715,
+    "AP@10": 0.3433333333333333,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 59,
+    "query": "bed",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.27777777777777773,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "crop",
+    "category": 60,
+    "query": "dining table",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.15384615384615385,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 61,
+    "query": "toilet",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 62,
+    "query": "tv",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 63,
+    "query": "laptop",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.029411764705882353
+  },
+  {
+    "method": "crop",
+    "category": 64,
+    "query": "mouse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006578947368421052
+  },
+  {
+    "method": "crop",
+    "category": 65,
+    "query": "remote",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 67,
+    "query": "cell phone",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.007874015748031496
+  },
+  {
+    "method": "crop",
+    "category": 68,
+    "query": "microwave",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.16666666666666666,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 69,
+    "query": "oven",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 71,
+    "query": "sink",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.09047619047619046,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "crop",
+    "category": 72,
+    "query": "refrigerator",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6,
+    "AP@10": 0.3833333333333333,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 73,
+    "query": "book",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05,
+    "AP@10": 0.05,
+    "MRR": 0.5
+  },
+  {
+    "method": "crop",
+    "category": 74,
+    "query": "clock",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.6388888888888888,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 75,
+    "query": "vase",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.75,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 76,
+    "query": "scissors",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.2,
+    "MRR": 0.2
+  },
+  {
+    "method": "crop",
+    "category": 77,
+    "query": "teddy bear",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.23809523809523808,
+    "AP@10": 0.45,
+    "MRR": 1.0
+  },
+  {
+    "method": "crop",
+    "category": 79,
+    "query": "toothbrush",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.9266666666666665,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 0,
+    "query": "person",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.01276595744680851,
+    "AP@10": 0.07222222222222222,
+    "MRR": 0.2
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 1,
+    "query": "bicycle",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 2,
+    "query": "car",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.15151515151515152,
+    "AP@10": 0.4833333333333333,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 3,
+    "query": "motorcycle",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.6926190476190476,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 4,
+    "query": "airplane",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.041666666666666664,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 5,
+    "query": "bus",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2857142857142857,
+    "AP@10": 0.07936507936507937,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 6,
+    "query": "train",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 7,
+    "query": "truck",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.09090909090909091,
+    "AP@10": 0.0125,
+    "MRR": 0.125
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 8,
+    "query": "boat",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 9,
+    "query": "traffic light",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.016666666666666666
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 11,
+    "query": "stop sign",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 13,
+    "query": "bench",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.1111111111111111,
+    "AP@10": 0.015873015873015872,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 14,
+    "query": "bird",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4375,
+    "AP@10": 0.6875,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 15,
+    "query": "cat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.058823529411764705
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 16,
+    "query": "dog",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.1111111111111111,
+    "AP@10": 0.018518518518518517,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 17,
+    "query": "horse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.08333333333333333
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 20,
+    "query": "elephant",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.29411764705882354,
+    "AP@10": 0.24888888888888888,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 21,
+    "query": "bear",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.16666666666666666,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 22,
+    "query": "zebra",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 23,
+    "query": "giraffe",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6666666666666666,
+    "AP@10": 0.6203703703703705,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 24,
+    "query": "backpack",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 25,
+    "query": "umbrella",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.09166666666666665,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 26,
+    "query": "handbag",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.17647058823529413,
+    "AP@10": 0.24166666666666664,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 27,
+    "query": "tie",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.041666666666666664,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 28,
+    "query": "suitcase",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.125,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 29,
+    "query": "frisbee",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.25,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 30,
+    "query": "skis",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.009708737864077669
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 31,
+    "query": "snowboard",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.7142857142857143,
+    "AP@10": 0.5952380952380951,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 32,
+    "query": "sports ball",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.375,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 33,
+    "query": "kite",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.01818181818181818
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 34,
+    "query": "baseball bat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.008547008547008548
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 35,
+    "query": "baseball glove",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.125,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 36,
+    "query": "skateboard",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.011235955056179775
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 38,
+    "query": "tennis racket",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.16666666666666666,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 39,
+    "query": "bottle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.014285714285714285,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 40,
+    "query": "wine glass",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.4,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 41,
+    "query": "cup",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.14285714285714285,
+    "AP@10": 0.40499999999999997,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 42,
+    "query": "fork",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 43,
+    "query": "knife",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.014285714285714285,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 44,
+    "query": "spoon",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.047619047619047616,
+    "AP@10": 0.0125,
+    "MRR": 0.125
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 45,
+    "query": "bowl",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.20833333333333334,
+    "AP@10": 0.2861111111111111,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 46,
+    "query": "banana",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.25,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 48,
+    "query": "sandwich",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.25,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 49,
+    "query": "orange",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.0625,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 50,
+    "query": "broccoli",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.18181818181818182,
+    "AP@10": 0.03428571428571429,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 51,
+    "query": "carrot",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.21739130434782608,
+    "AP@10": 0.40499999999999997,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 52,
+    "query": "hot dog",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.19642857142857142,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 53,
+    "query": "pizza",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.6,
+    "AP@10": 0.52,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 54,
+    "query": "donut",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5714285714285714,
+    "AP@10": 0.7577777777777778,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 55,
+    "query": "cake",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.29166666666666663,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 56,
+    "query": "chair",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.08571428571428572,
+    "AP@10": 0.275,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 57,
+    "query": "couch",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.018518518518518517,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 58,
+    "query": "potted plant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2857142857142857,
+    "AP@10": 0.27666666666666667,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 59,
+    "query": "bed",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.037037037037037035,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 60,
+    "query": "dining table",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.15384615384615385,
+    "AP@10": 0.15,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 61,
+    "query": "toilet",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 62,
+    "query": "tv",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 63,
+    "query": "laptop",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006493506493506494
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 64,
+    "query": "mouse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004672897196261682
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 65,
+    "query": "remote",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 67,
+    "query": "cell phone",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.005076142131979695
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 68,
+    "query": "microwave",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.1111111111111111,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 69,
+    "query": "oven",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.2,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 71,
+    "query": "sink",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.03333333333333333,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 72,
+    "query": "refrigerator",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.26666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 73,
+    "query": "book",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05,
+    "AP@10": 0.05,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 74,
+    "query": "clock",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5555555555555556,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 75,
+    "query": "vase",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 1.0,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 76,
+    "query": "scissors",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.05263157894736842
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 77,
+    "query": "teddy bear",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.14285714285714285,
+    "AP@10": 0.1025,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.25",
+    "category": 79,
+    "query": "toothbrush",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4,
+    "AP@10": 0.3333333333333333,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 0,
+    "query": "person",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.00425531914893617,
+    "AP@10": 0.01,
+    "MRR": 0.1
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 1,
+    "query": "bicycle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.03333333333333333,
+    "MRR": 0.2
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 2,
+    "query": "car",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.09090909090909091,
+    "AP@10": 0.13333333333333333,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 3,
+    "query": "motorcycle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.1,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 4,
+    "query": "airplane",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.015625
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 5,
+    "query": "bus",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.015384615384615385
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 6,
+    "query": "train",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.014705882352941176
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 7,
+    "query": "truck",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.09090909090909091,
+    "AP@10": 0.014285714285714285,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 8,
+    "query": "boat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.06666666666666667
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 9,
+    "query": "traffic light",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.008264462809917356
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 11,
+    "query": "stop sign",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 13,
+    "query": "bench",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.045454545454545456
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 14,
+    "query": "bird",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.375,
+    "AP@10": 0.5240476190476191,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 15,
+    "query": "cat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006802721088435374
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 16,
+    "query": "dog",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.034482758620689655
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 17,
+    "query": "horse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.029411764705882353
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 20,
+    "query": "elephant",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.11764705882352941,
+    "AP@10": 0.03666666666666667,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 21,
+    "query": "bear",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.030303030303030304
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 22,
+    "query": "zebra",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.3,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 23,
+    "query": "giraffe",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2222222222222222,
+    "AP@10": 0.04056437389770723,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 24,
+    "query": "backpack",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.08095238095238096,
+    "MRR": 0.2
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 25,
+    "query": "umbrella",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.09090909090909091
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 26,
+    "query": "handbag",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.17647058823529413,
+    "AP@10": 0.17666666666666667,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 27,
+    "query": "tie",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.043478260869565216
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 28,
+    "query": "suitcase",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.0625,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 29,
+    "query": "frisbee",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.125,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 30,
+    "query": "skis",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0025380710659898475
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 31,
+    "query": "snowboard",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.029411764705882353
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 32,
+    "query": "sports ball",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.08333333333333333,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 33,
+    "query": "kite",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00510204081632653
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 34,
+    "query": "baseball bat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0035335689045936395
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 35,
+    "query": "baseball glove",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.018867924528301886
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 36,
+    "query": "skateboard",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0027247956403269754
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 38,
+    "query": "tennis racket",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.027777777777777776
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 39,
+    "query": "bottle",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.0125,
+    "MRR": 0.125
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 40,
+    "query": "wine glass",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.1875,
+    "AP@10": 0.3,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 41,
+    "query": "cup",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.11428571428571428,
+    "AP@10": 0.22749999999999998,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 42,
+    "query": "fork",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.16666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 43,
+    "query": "knife",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.07142857142857142
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 44,
+    "query": "spoon",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.047619047619047616,
+    "AP@10": 0.01,
+    "MRR": 0.1
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 45,
+    "query": "bowl",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.20833333333333334,
+    "AP@10": 0.24714285714285716,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 46,
+    "query": "banana",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.1,
+    "MRR": 0.1
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 48,
+    "query": "sandwich",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.043478260869565216
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 49,
+    "query": "orange",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.041666666666666664,
+    "MRR": 0.16666666666666666
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 50,
+    "query": "broccoli",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.09090909090909091,
+    "AP@10": 0.0125,
+    "MRR": 0.125
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 51,
+    "query": "carrot",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.17391304347826086,
+    "AP@10": 0.32666666666666666,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 52,
+    "query": "hot dog",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.02040816326530612
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 53,
+    "query": "pizza",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.045454545454545456
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 54,
+    "query": "donut",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.09090909090909091
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 55,
+    "query": "cake",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.225,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 56,
+    "query": "chair",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.08571428571428572,
+    "AP@10": 0.13285714285714284,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 57,
+    "query": "couch",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.04
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 58,
+    "query": "potted plant",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.21428571428571427,
+    "AP@10": 0.17083333333333334,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 59,
+    "query": "bed",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006134969325153374
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 60,
+    "query": "dining table",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07692307692307693,
+    "AP@10": 0.1,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 61,
+    "query": "toilet",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.125,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 62,
+    "query": "tv",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.16666666666666666,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 63,
+    "query": "laptop",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004219409282700422
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 64,
+    "query": "mouse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.003257328990228013
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 65,
+    "query": "remote",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.3333333333333333,
+    "AP@10": 0.21428571428571427,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 67,
+    "query": "cell phone",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00641025641025641
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 68,
+    "query": "microwave",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.027777777777777776
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 69,
+    "query": "oven",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.2,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 71,
+    "query": "sink",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.016129032258064516
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 72,
+    "query": "refrigerator",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2,
+    "AP@10": 0.06666666666666667,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 73,
+    "query": "book",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05,
+    "AP@10": 0.025,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 74,
+    "query": "clock",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.4444444444444444,
+    "AP@10": 0.3333333333333333,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 75,
+    "query": "vase",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 1.0,
+    "AP@10": 0.6,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 76,
+    "query": "scissors",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.018518518518518517
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 77,
+    "query": "teddy bear",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.05263157894736842
+  },
+  {
+    "method": "contrast_0.5",
+    "category": 79,
+    "query": "toothbrush",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.020833333333333332
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 0,
+    "query": "person",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.00851063829787234,
+    "AP@10": 0.03111111111111111,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 1,
+    "query": "bicycle",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00684931506849315
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 2,
+    "query": "car",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.09090909090909091
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 3,
+    "query": "motorcycle",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0026041666666666665
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 4,
+    "query": "airplane",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00228310502283105
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 5,
+    "query": "bus",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006535947712418301
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 6,
+    "query": "train",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0020408163265306124
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 7,
+    "query": "truck",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.058823529411764705
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 8,
+    "query": "boat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0014245014245014246
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 9,
+    "query": "traffic light",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0036363636363636364
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 11,
+    "query": "stop sign",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.003003003003003003
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 13,
+    "query": "bench",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.012195121951219513
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 14,
+    "query": "bird",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.0625,
+    "AP@10": 0.01111111111111111,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 15,
+    "query": "cat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00186219739292365
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 16,
+    "query": "dog",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.007518796992481203
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 17,
+    "query": "horse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004048582995951417
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 20,
+    "query": "elephant",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004219409282700422
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 21,
+    "query": "bear",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0013440860215053765
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 22,
+    "query": "zebra",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.005235602094240838
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 23,
+    "query": "giraffe",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004629629629629629
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 24,
+    "query": "backpack",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.058823529411764705
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 25,
+    "query": "umbrella",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.05
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 26,
+    "query": "handbag",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.11764705882352941,
+    "AP@10": 0.05,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 27,
+    "query": "tie",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.007633587786259542
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 28,
+    "query": "suitcase",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004201680672268907
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 29,
+    "query": "frisbee",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002785515320334262
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 30,
+    "query": "skis",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0012578616352201257
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 31,
+    "query": "snowboard",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0014534883720930232
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 32,
+    "query": "sports ball",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0049504950495049506
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 33,
+    "query": "kite",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002197802197802198
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 34,
+    "query": "baseball bat",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0018115942028985507
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 35,
+    "query": "baseball glove",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00267379679144385
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 36,
+    "query": "skateboard",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0013020833333333333
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 38,
+    "query": "tennis racket",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002457002457002457
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 39,
+    "query": "bottle",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.06666666666666667
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 40,
+    "query": "wine glass",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.125,
+    "AP@10": 0.12,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 41,
+    "query": "cup",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05714285714285714,
+    "AP@10": 0.15,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 42,
+    "query": "fork",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.023809523809523808,
+    "MRR": 0.14285714285714285
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 43,
+    "query": "knife",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.021739130434782608
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 44,
+    "query": "spoon",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.018518518518518517
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 45,
+    "query": "bowl",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.08333333333333333,
+    "AP@10": 0.05333333333333333,
+    "MRR": 0.2
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 46,
+    "query": "banana",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.02127659574468085
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 48,
+    "query": "sandwich",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.013333333333333334
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 49,
+    "query": "orange",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.25,
+    "AP@10": 0.027777777777777776,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 50,
+    "query": "broccoli",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.08333333333333333
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 51,
+    "query": "carrot",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.17391304347826086,
+    "AP@10": 0.25396825396825395,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 52,
+    "query": "hot dog",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002074688796680498
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 53,
+    "query": "pizza",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002717391304347826
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 54,
+    "query": "donut",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0025906735751295338
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 55,
+    "query": "cake",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.008547008547008548
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 56,
+    "query": "chair",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.02857142857142857,
+    "AP@10": 0.03333333333333333,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 57,
+    "query": "couch",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006535947712418301
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 58,
+    "query": "potted plant",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07142857142857142,
+    "AP@10": 0.025,
+    "MRR": 0.25
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 59,
+    "query": "bed",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0016286644951140066
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 60,
+    "query": "dining table",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.07692307692307693,
+    "AP@10": 0.05,
+    "MRR": 0.5
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 61,
+    "query": "toilet",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.001392757660167131
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 62,
+    "query": "tv",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006756756756756757
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 63,
+    "query": "laptop",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0024813895781637717
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 64,
+    "query": "mouse",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.002178649237472767
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 65,
+    "query": "remote",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.16666666666666666,
+    "AP@10": 0.05555555555555555,
+    "MRR": 0.3333333333333333
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 67,
+    "query": "cell phone",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.006493506493506494
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 68,
+    "query": "microwave",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.00273224043715847
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 69,
+    "query": "oven",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0035460992907801418
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 71,
+    "query": "sink",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0023923444976076554
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 72,
+    "query": "refrigerator",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.01639344262295082
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 73,
+    "query": "book",
+    "Hit@1": 0.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.05,
+    "AP@10": 0.01111111111111111,
+    "MRR": 0.1111111111111111
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 74,
+    "query": "clock",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.2222222222222222,
+    "AP@10": 0.1388888888888889,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 75,
+    "query": "vase",
+    "Hit@1": 1.0,
+    "Hit@10": 1.0,
+    "Recall@10": 0.5,
+    "AP@10": 0.5,
+    "MRR": 1.0
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 76,
+    "query": "scissors",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0044444444444444444
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 77,
+    "query": "teddy bear",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.004784688995215311
+  },
+  {
+    "method": "contrast_1.0",
+    "category": 79,
+    "query": "toothbrush",
+    "Hit@1": 0.0,
+    "Hit@10": 0.0,
+    "Recall@10": 0.0,
+    "AP@10": 0.0,
+    "MRR": 0.0030211480362537764
+  }
+]
