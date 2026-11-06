@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.DS_Store
+model_cache/
+data/coco128/
+data/download/
+data/thumbnails/
+*.log
+*.xlsx
+*.pem
+*.key
+.env
